@@ -1,1 +1,2 @@
 # BACKUP_1C_WITH_RAC
+Backup 1c with RAC\RAS
